@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name" translatable="false">My Museum Adventure</string>
+    <string name="android" translatable="false">Android</string>
+    <string name="start_tour">Start tour</string>
+    <string name="preferences">Preferences</string>
+    <string name="AlertReportClassificationTitle">Report a wrong classification</string>
+    <string name="AlertReportClassificationDescription">Hold down on a zone to report a wrong classification</string>
+    <string name="understood">Understood</string>
+    <string name="Select_All">Select all</string>
+    <string name="warning">Warning</string>
+    <string name="ok">OK</string>
+    <string name="backFromPreferencePage">Are you sure you want to exit?</string>
+    <string name="cancel">Cancel</string>
+    <string name="interactive">Interactive</string>
+    <string name="non_interactive">Non-interactive</string>
+    <string name="planimetria">Planimetry</string>
+    <string name="deselect_all_selected">Deselect All</string>
+    <string name="start_tour_text_1">The selected theme is:</string>
+    <string name="start_tour_dismiss">No</string>
+    <string name="start_tour_confirmation">Start</string>
+    <string name="start_tour_title">Do you want to start the tour?</string>
+    <string name="horror" translatable="false">Horror</string>
+    <string name="romantic">Romantic</string>
+    <string name="science_fiction">Sci-fi</string>
+    <string name="comic">Comic</string>
+    <string name="fantasy" translatable="false">Fantasy</string>
+    <string name="start_tour_text_2">The selected themes are:</string>
+    <string name="title_page_themes">Themes</string>
+    <string name="all">All</string>
+    <string name="completed">Completed</string>
+    <string name="not_completed">Not Completed</string>
+    <string name="riddle_1">Riddle 1</string>
+    <string name="default_description" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</string>
+    <string name="stop_tour">Stop Tour</string>
+    <string name="scan_artwork">Scan artwork</string>
+    <string name="see_artwork">See artwork</string>
+    <string name="riddles">Riddles</string>
+    <string name="riddle">Riddle</string>
+    <string name="adventure">Adventure</string>
+    <string name="awesome">Awesome</string>
+    <string name="you_solved_the_riddle">You solved the riddle</string>
+    <string name="go_to_riddle">Go to Riddle</string>
+    <string name="riddle_already_solved">Riddle already solved</string>
+    <string name="you_have_already_solved_this_riddle">You have already solved this riddle</string>
+    <string name="sorry">Ops…I\'m sorry</string>
+    <string name="this_is_not_a_riddle_solution">This is not a riddle solution</string>
+    <string name="the_app_needs_permission_to_access_to_the_camera_please_grant_it">The app needs permission to access to the camera. Please grant it.</string>
+    <string name="grant_permission">Grant permission</string>
+    <string name="to_use_the_camera_go_into_the_settings_to_enable_access">To use the camera, go into the settings to enable access.</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="a_camera_permit_is_required">A camera permit is required.</string>
+    <string name="request_permission">Request Permission</string>
+    <string name="try_again">Try Again</string>
+    <string name="nothing_found">Nothing found</string>
+    <string name="try_to_do_a_better_search">Try to do a better search</string>
+    <string name="description">Description</string>
+    <string name="send_report">Send report</string>
+    <string name="no_riddles_found">No riddles found</string>
+    <string name="this_zone_is">This zone is </string>
+    <string name="zone">Zone</string>
+    <string name="which_score_do_you_want_to_give_to_this_zone">Which score do you want to give to this zone?</string>
+    <string name="are_you_sure_you_want_to_report_this_zone">Are you sure you want to report this zone?</string>
+    <string name="the_zone">The zone</string>
+    <string name="will_be_removed_from_the_map">will be removed from the map</string>
+    <string name="do_you_want_to_stop_the_tour">Do you want to stop the tour?</string>
+    <string name="all_the_progresses_medals_and_achievements_will_be_lost">All the progresses, medals and achievements will be lost</string>
+    <string name="stop">Stop</string>
+    <string name="no">No</string>
+    <string name="artist">Artist</string>
+    <string name="year">Year</string>
+</resources>

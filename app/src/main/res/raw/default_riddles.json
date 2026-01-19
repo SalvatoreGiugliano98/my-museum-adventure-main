@@ -1,0 +1,64 @@
+{
+  "riddles": [
+    {
+      "id": 1,
+      "titleEn": "The smile",
+      "titleIt": "Il sorriso",
+      "descriptionIt": "Sorriso misterioso, volto sereno,\nma chi sono io, che sorriso non è pieno?",
+      "descriptionEn": "Mysterious smile, serene face,\nbut who am I, with a smile that's not full in place?",
+      "medal": 1,
+      "artworkID": 1,
+      "completed": false
+    },
+    {
+      "id": 2,
+      "titleEn": "The fly",
+      "titleIt": "Il Volo",
+      "descriptionEn": "I fly without wings, triumph without words, \nwho am I that brings victory with my posture?",
+      "descriptionIt": "Volo senza ali, trionfo senza parola, \nchi sono io che porto vittoria con la mia postura?",
+      "medal": 2,
+      "artworkID": 2,
+      "completed": false
+    },
+    {
+      "id": 3,
+      "titleEn": "The Sea's Riddle",
+      "titleIt": "L'enigma del mare",
+      "descriptionEn": "I am vast and rolling, I bring hope and despair, who am I?",
+      "descriptionIt": "Sono grande e ondeggiante, porto speranza e disperazione, chi sono?",
+      "medal": 3,
+      "artworkID": 3,
+      "completed": false
+    },
+    {
+      "id": 4,
+      "titleEn": "Mystery in the Mist",
+      "titleIt": "Il mistero nella nebbia",
+      "descriptionEn": "I walk among the clouds without flying, searching for a place no one can see; who am I?",
+      "descriptionIt": "Cammino tra le nuvole senza volare, cercando un luogo che nessuno può vedere; chi sono?",
+      "medal": 4,
+      "artworkID": 4,
+      "completed": false
+    },
+    {
+      "id": 5,
+      "titleEn": "The Kart",
+      "titleIt": "Il kart",
+      "descriptionEn": "On the Moon's dusty track, a race begins, like a karting game, but in space, it's clear!",
+      "descriptionIt": "Sulla pista lunare parte una corsa, come un gioco di kart, ma nello spazio da ammirare!",
+      "medal": 5,
+      "artworkID": 5,
+      "completed": false
+    },
+    {
+      "id": 6,
+      "titleEn": "A Mouse in a Thousand Colors",
+      "titleIt": "Un Topo in migliaia di colori",
+      "descriptionEn": "Who is always smiling, but changes color in every corner of the canvas?",
+      "descriptionIt": "Chi è sempre sorridente, ma cambia colore in ogni angolo della tela?",
+      "medal": 6,
+      "artworkID": 6,
+      "completed": false
+    }
+  ]
+}

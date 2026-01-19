@@ -1,0 +1,88 @@
+{
+  "artworks" : [
+    {
+      "id": 1,
+      "titleEn" : "Mona Lisa",
+      "titleIt" : "La Gioconda",
+      "artist": "Leonardo Da Vinci",
+      "image": 1,
+      "descriptionEn": "The Mona Lisa is a famous painting by an artist named Leonardo da Vinci. \nIt depicts a woman sitting with a mysterious smile. She wears a simple yet elegant dress, and her dark hair is tied up. The background consists of mountains and a calm landscape. What makes the Mona Lisa's smile special is that it seems to change depending on how you look at it! Sometimes she appears to be smiling, other times she looks more serious. The painting is very famous and is housed in a large museum in France, called the Louvre. Many people view it every day and wonder about the secret behind that smile. The Mona Lisa is one of the most iconic paintings in the world and continues to spark curiosity and admiration!",
+      "descriptionIt": "La Gioconda è un famoso dipinto di un'artista chiamato Leonardo da Vinci. \nSi vede una donna seduta, con un sorriso misterioso. Indossa un vestito semplice, ma elegante, e ha i capelli scuri raccolti. Lo sfondo è composto da montagne e un paesaggio tranquillo. Quello che rende il sorriso della Gioconda speciale è che sembra cambiare a seconda di come la guardi! A volte sembra sorridere, altre volte sembra più seria. Il dipinto è molto famoso e si trova in un grande museo in Francia, chiamato il Louvre. Molte persone lo guardano ogni giorno e si chiedono quale sia il segreto dietro quel sorriso. La Gioconda è uno dei quadri più celebri al mondo e continua a suscitare curiosità e ammirazione!",
+      "year": "1503-1506",
+      "themeID": 3,
+      "titleSynonyms": ["Mona Lisa", "Joconde", "Gioconda", "Monna Lisa", "Gioconde", "Lisa Gherardini"]
+    },
+    {
+      "id": 2,
+      "titleEn" : "Nike of Samotracia",
+      "titleIt" : "Nike di Samotracia",
+      "artist": "Pitocrito di Rodi",
+      "image": 2,
+      "descriptionEn": "The Nike of Samothrace is a statue representing the goddess of victory, named Nike. \nThe sculpture shows Nike in flight, as if landing on a ship, with her wings spread out and her body leaning forward, ready to bring victory. It is famous for its beauty and the way it captures movement, making it seem like she is truly in action. Although it no longer has a head, her wings and body position make it look like she's really flying. The statue was found on the island of Samothrace, a place full of history, and today it is in the Louvre Museum in Paris. The Nike of Samothrace is a symbol of strength and triumph!",
+      "descriptionIt" : "La Nike di Samotracia è una statua che rappresenta una dea della vittoria, chiamata Nike. \nLa scultura mostra la figura di Nike in volo, come se stesse atterrando su una nave, con le ali spiegate e il corpo inclinato in avanti, pronta a portare la vittoria. È famosa per la sua bellezza e per il modo in cui cattura il movimento, come se fosse in azione. Anche se non ha più la testa, le sue ali e la posizione del corpo fanno sembrare che stia volando davvero. La statua fu trovata sull'isola di Samotracia, un luogo pieno di storia, e oggi si trova al Museo del Louvre, a Parigi. La Nike di Samotracia è un simbolo di forza e trionfo!",
+      "year": "II secolo a.C. circa",
+      "themeID": 6,
+      "titleSynonyms": ["Nike di Samotracia","Nike","Samotracia","Victoire de Samothrace", "Samothrace", "Winged Victory of Samothrace", "Samothrace", "Winged Victory"]
+    },
+    {
+      "id": 3,
+      "titleEn" : "The Raft of the Medusa",
+      "titleIt" : "La zattera della Medusa",
+      "artist": "Théodore Géricault",
+      "image": 3,
+      "descriptionEn": "The Raft of the Medusa is a very famous painting created by Théodore Géricault in 1818. It tells a true story of brave and strong people who, after a shipwreck, find themselves on a raft in the middle of the sea. In the painting, you can see men and women trying to survive: some are looking towards the horizon, hoping to be rescued, while others seem tired or scared. The waves are big and threatening, and the sky is dark, but there is also a ray of light that brings hope.\n\nThe artist wanted to show how people can endure even in the hardest moments by helping each other. The details of the painting, like the muscles of the characters and the movement of the water, make everything look very real. It’s an exciting story about courage, hope, and adventure!",
+      "descriptionIt" : "La Zattera della Medusa è un dipinto molto famoso, realizzato da Théodore Géricault nel 1818. Racconta una storia vera di persone coraggiose e forti che, dopo un naufragio, si trovano su una zattera in mezzo al mare. Nel quadro si vedono uomini e donne che cercano di sopravvivere: alcuni guardano verso l’orizzonte, sperando di essere salvati, altri sembrano stanchi o spaventati. Le onde sono grandi e minacciose, e il cielo è cupo, ma c'è anche un raggio di luce che dà speranza.\n\nL'artista ha voluto mostrare come le persone possano resistere anche nei momenti più difficili, aiutandosi a vicenda. I dettagli del quadro, come i muscoli dei personaggi e il movimento dell’acqua, fanno sembrare tutto molto reale. È una storia emozionante che parla di coraggio, speranza e avventura!",
+      "year": "1819",
+      "themeID": 1,
+      "titleSynonyms": ["La zattera della Medusa","zattera della Medusa","The Raft of the Medusa","Raft of the Medusa","Le Radeau de la Méduse","Radeau de la Méduse","Il naufragio della Medusa","naufragio della Medusa", "Il naufragio della Meduse"]
+    },
+    {
+      "id": 4,
+      "titleEn": "Wanderer above the Sea of Fog",
+      "titleIt" : "Viandante sul mare di nebbia",
+      "artist": "Caspar David Friedrich",
+      "image": 4,
+      "descriptionEn": "The Wanderer Above the Sea of Fog is a mysterious explorer who loves walking among the clouds. He wears a long dark cloak that flows in the wind, and with his sturdy staff, he ventures across tall mountains and hills covered in mist. No one knows where he comes from, but it's said he’s searching for something special: a magical place hidden within the fog, where dreams come to life.\n\nAs he walks, he observes the landscape with curious eyes, discovering wonders that others cannot see. To him, the fog isn’t cold or scary—it’s a friend whispering secrets. Sometimes, he stops at the top of a mountain, gazes far into the distance, and seems to listen to the stories carried by the wind. No one knows if he will ever find his magical place, but one thing is certain: his journey is full of extraordinary adventures!",
+      "descriptionIt" : "Il Viandante sul Mare di Nebbia è un misterioso esploratore che ama camminare tra le nuvole. Indossa un lungo mantello scuro che ondeggia al vento, e con il suo bastone robusto si avventura su alte montagne e colline coperte di nebbia. Non si sa da dove venga, ma si dice che stia cercando qualcosa di speciale: un luogo magico nascosto proprio dentro la nebbia, dove i sogni prendono vita.\n\nMentre cammina, osserva il paesaggio con occhi curiosi, scoprendo nuove meraviglie che gli altri non riescono a vedere. Per lui, la nebbia non è fredda o spaventosa, ma un amico che sussurra segreti. A volte, si ferma in cima a una montagna, guarda lontano e sembra ascoltare le storie del vento. Nessuno sa se troverà mai il suo luogo magico, ma una cosa è certa: il suo viaggio è pieno di avventure straordinarie!",
+      "year": "1818",
+      "themeID": 2,
+      "titleSynonyms": ["Viandante sul mare di nebbia","Viandante sopra il mare di nebbia","viandante","Wanderer above the Sea of Fog","Der Wanderer über dem Nebelmeer","Viandante nella nebbia"]
+    },
+    {
+      "id": 5,
+      "titleEn" : "Lunar Grand Prix",
+      "titleIt" : "Gran Premio Lunare",
+      "artist": "Alan Bean",
+      "image": 5,
+      "descriptionEn": "Lunar Grand Prix by Alan Bean is a work of art that tells an exciting moment from the Apollo 16 mission. Imagine a race on the Moon! In this painting, Alan Bean shows astronauts driving the Lunar Roving Vehicle (LRV), a special vehicle used to explore the lunar surface. The vehicle’s wheels roll through the gray dust while the astronauts enjoy themselves and look at the lunar landscape, with Earth appearing far away in the sky. Alan Bean's art captures the feeling of freedom and adventure, as if we were living that space race alongside the astronauts. The painting uses bright colors and details that make us feel as if we're really looking at the Moon up close. It’s a piece that makes us dream of exploring new worlds and having incredible adventures in space!",
+      "descriptionIt" : "Lunar Grand Prix di Alan Bean è un'opera che racconta un momento emozionante della missione Apollo 16. Immagina una corsa sulla Luna! In questa pittura, Alan Bean mostra gli astronauti mentre guidano il Lunar Roving Vehicle (LRV), un veicolo speciale per esplorare la superficie lunare. Le ruote del veicolo solcano la polvere grigia mentre gli astronauti si divertono e guardano il paesaggio lunare, con la Terra che appare lontana nel cielo. L'arte di Alan Bean cattura la sensazione di libertà e avventura, come se stessimo vivendo quella corsa spaziale insieme agli astronauti. Il dipinto usa colori vivaci e dettagli che ci fanno sentire come se stessimo davvero guardando la Luna da vicino. È un'opera che ci fa sognare di esplorare nuovi mondi e vivere incredibili avventure nello spazio!",
+      "year": "1997",
+      "themeID": 4,
+      "titleSynonyms": ["Lunar Grand Prix","Gran Premio Lunare","Großer Mondpreis","Alan Bean", "astronauta","apollo","nasa","sulla luna","lunare"]
+    },
+    {
+      "id": 6,
+      "titleEn" : "Quadrant Mickey Mouse",
+      "titleIt" : "Quadrant Mickey Mouse",
+      "artist": "Andy Warhol",
+      "image": 6,
+      "descriptionEn": "Andy Warhol's Quadrant Mickey Mouse is a colorful and fun artwork that shows Mickey Mouse, the famous mouse created by Walt Disney. Warhol divided the painting into four sections, each with a different version of Mickey in a different color, like red, yellow, blue, and green. Each Mickey has a happy and friendly face, but the bright and bold colors make it very special and different from what we see in cartoons. Warhol loved using strong colors and repeating images, and in this painting, he turned a character everyone knows into a modern and playful piece of art. This painting makes us smile and invites us to look at the things we know in a new and creative way!",
+      "descriptionIt" : "Quadrant Mickey Mouse di Andy Warhol è un'opera coloratissima e divertente che mostra Mickey Mouse, il famoso topo creato da Walt Disney. Warhol ha diviso il quadro in quattro parti, ognuna con una versione di Mickey in un colore diverso, come il rosso, il giallo, il blu e il verde. Ogni Mickey ha una faccia felice e simpatica, ma i colori così vivaci e brillanti lo rendono molto speciale e diverso da quello che vediamo nei cartoni animati. Warhol amava usare colori forti e ripetere le immagini, e in questo quadro, ha trasformato un personaggio che tutti conoscono in un’opera d’arte moderna e giocosa. Questo dipinto ci fa sorridere e ci invita a guardare le cose che conosciamo in modo nuovo e creativo!",
+      "year": "1981",
+      "themeID": 5,
+      "titleSynonyms": ["Quadrant Mickey Mouse","Quadrant Mickey"]
+    },
+    {
+      "id": 7,
+      "titleEn" : "The Starry Night",
+      "titleIt" : "La Notte Stellata",
+      "artist": "Vincent van Gogh",
+      "image": 7,
+      "descriptionEn": "\"The Starry Night\" by Vincent van Gogh is a magical and emotional painting that shows a wonderful night sky. Van Gogh painted big, bright stars that seem to dance in the sky, with colors like yellow and white shining against the dark blue night. The clouds move like waves in the wind, and below the sky, there is a small, quiet village with little houses and a church. There is also a tall, dark tree reaching up, as if it wants to touch the sky. Van Gogh didn’t paint the sky as we see it in real life, but with his heart and imagination, creating a painting full of emotion and wonder. This artwork makes us dream and shows us that the night can be magical and full of life!",
+      "descriptionIt" : "\"La Notte Stellata\" di Vincent van Gogh è un quadro magico e pieno di emozione che mostra un cielo notturno meraviglioso. Van Gogh ha dipinto grandi stelle luminose che sembrano danzare nel cielo, con colori come il giallo e il bianco che spiccano sul blu scuro della notte. Le nuvole si muovono come onde nel vento, e sotto il cielo c’è un piccolo paesino tranquillo con casette e una chiesa. C’è anche un grande albero nero che si allunga verso l’alto, come se volesse toccare il cielo. Van Gogh non ha dipinto il cielo come lo vediamo nella realtà, ma con il suo cuore e la sua fantasia, creando un’opera piena di emozione e meraviglia. Questo quadro ci fa sognare e ci mostra che la notte può essere magica e piena di vita!",
+      "year": "1889",
+      "themeID": 6,
+      "titleSynonyms": ["The Starry Night","Starry Night","notte stellata","la notte"]
+    }
+  ]
+}

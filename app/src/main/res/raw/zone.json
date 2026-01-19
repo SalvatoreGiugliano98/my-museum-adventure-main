@@ -1,0 +1,84 @@
+{
+  "zones": [
+    {
+      "id" : 1,
+      "positionX" : 230,
+      "positionY" : 390,
+      "width" : 80,
+      "height" : 85,
+      "theme" : 1,
+      "shown" : true,
+      "score" : 5
+    },
+    {
+      "id" : 2,
+      "positionX" : 215,
+      "positionY" : 318,
+      "width" : 96,
+      "height" : 64,
+      "theme" : 2,
+      "shown" : true,
+      "score" : 5
+    },
+    {
+      "id" : 3,
+      "positionX" : 236,
+      "positionY" : 232,
+      "width" : 72,
+      "height" : 79,
+      "theme" : 3,
+      "shown" : true,
+      "score" : 5
+    },
+    {
+      "id" : 4,
+      "positionX" : 175,
+      "positionY" : 230,
+      "width" : 42,
+      "height" : 81,
+      "theme" : 4,
+      "shown" : true,
+      "score" : 5
+    },
+    {
+      "id" : 5,
+      "positionX" : 83,
+      "positionY" : 240,
+      "width" : 55,
+      "height" : 58,
+      "theme" : 5,
+      "shown" : true,
+      "score" : 5
+    },
+    {
+      "id" : 6,
+      "positionX" : 65,
+      "positionY" : 332,
+      "width" : 102,
+      "height" : 50,
+      "theme" : 6,
+      "shown" : true,
+      "score" : 5
+    },
+    {
+      "id" : 7,
+      "positionX" : 108,
+      "positionY" : 390,
+      "width" : 42,
+      "height" : 64,
+      "theme" : 4,
+      "shown" : true,
+      "score" : 5
+    },
+    {
+      "id" : 8,
+      "positionX" : 159,
+      "positionY" : 390,
+      "width" : 61,
+      "height" : 85,
+      "theme" : 2,
+      "shown" : true,
+      "score" : 5
+    }
+  ]
+}
