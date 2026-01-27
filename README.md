@@ -49,7 +49,7 @@ Each artwork is accompanied by detailed descriptions and audio guides (available
 - `Report.pdf`: Detailed documentation of the design process, usability testing, and project requirements.
 - `Usability Test.pdf`: Results and analysis of the usability testing sessions.
 
-## 🚀 Getting Started
+## 🚀 Getting Started 
 1. Clone the repository.
 2. Open the project in **Android Studio**.
 3. Build and run the app on an Android device or emulator (API level 24 or higher recommended).
